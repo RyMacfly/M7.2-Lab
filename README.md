@@ -1,4 +1,4 @@
-# M6.2 Lab 
+# M7.2 Lab 
 
 ## Overview
 This projects utilizes css formatting using flexbox, grid, position, and columns inorder to create 
